@@ -1,0 +1,4 @@
+child-experiment
+================
+
+submodule testing
